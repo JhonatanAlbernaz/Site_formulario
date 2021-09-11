@@ -1,0 +1,25 @@
+.height-3 {
+    height: 3em;
+}
+
+.height-8 {
+    height: 8em !important;
+}
+
+.botao {
+    background-color: #3333ff !important;
+    color: white;
+    border-radius: 40px;
+    margin-top: 2em;
+    height: 2.3em;
+}
+
+.botao:hover {
+    color: white !important;
+}
+
+.background-image {
+    background-image: url(https://bootstrapmade.com/demo/templates/Regna/assets/img/hero-bg.jpg);
+    background-position: center;
+    background-size: cover;
+}
